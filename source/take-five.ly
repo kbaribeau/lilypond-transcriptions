@@ -35,7 +35,7 @@
 
   d~ d~\turn d1\glissando
   d,4. \breathe c'8~ c4 a8 f r4
-  r4 c, bes''\glissando d,8 bes c d
+  r4 c,-. bes''\glissando d,8 bes c d
   ees f g c,~ c4 c-> r4
   \break
 
