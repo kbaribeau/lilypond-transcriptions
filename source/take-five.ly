@@ -39,14 +39,14 @@
   ees f g c,~ c4 c-> r4
   \break
 
-  f,4. f'4-> c8 ees d c r8
-  f,4. f'4->
+  f,4. f'8~ f8 c8 ees d c r8
+  f,4. f'8~ f8
     \override NoteHead.style = #'cross
     c8
     \revert NoteHead.style
     d ees-. r4
-  f,4. f'4 c8 ees d c r8
-  f,4. d'4-^ bes8 c4. a8
+  f,4. f'8~ f8 c8 ees d c r8
+  f,4. d'8-^ r8 bes8 c4. a8
   \break
 
   g2.~ g2
