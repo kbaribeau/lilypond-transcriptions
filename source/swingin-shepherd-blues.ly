@@ -12,37 +12,37 @@
   \acciaccatura { ees8 } e4 \acciaccatura { ees8 } e4 c8 g a c
   \acciaccatura { ees8 } e4 \acciaccatura { ees8 } e4 c8 g a c
   \acciaccatura { ees8 } e4 \acciaccatura { ees8 } e4 c8 g \tuplet 3/2 { a g bes~ }
-  bes2 r4 c8 c
+  bes2 \breathe r4 c8 c
   \break
 
   f c \acciaccatura { f8 } fis8 f8~ f8 c \acciaccatura { f8 } fis8 f8~
   f4.~ \glissando ees8~ ees c8 g f
   e8 c e c f4 fis8 g~
-  g4 r8 e \glissando g c d c
+  g4 \breathe r8 e \glissando g c d c
   \break
 
   ees4 ees c8 g f g
-  ees'4 ees c8 r8 \tuplet 3/2 { g f g }
+  ees'4 ees c8 \breathe r8 \tuplet 3/2 { g f g }
   c bes~ bes4 a8 aes~aes4
-  g8 f e c r4 \tuplet 3/2 { g''8 a c }
+  g8 f e c \breathe r4 \tuplet 3/2 { g''8 a c }
 
   % second chorus
   \acciaccatura { ees8 } e4 \acciaccatura { ees8 } e4 c8 g a c
   \acciaccatura { ees8 } e4 \acciaccatura { ees8 } e4 c8 g a c
   \acciaccatura { ees8 } e4 \acciaccatura { ees8 } e4 c8 g \tuplet 3/2 { a g bes~ }
-  bes2 r4 c8 c
+  bes2 \breathe r4 c8 c
   \break
 
   f c \acciaccatura { f8 } fis8 f8~ f8 c \acciaccatura { f8 } fis8 f8~
   f4.~ \glissando ees8~ ees c8 g f
   e8 c e c f c fis g~
-  g4 r8 e \glissando g c d c
+  g4 \breathe r8 e \glissando g c d c
   \break
 
   ees4 ees c8 g f g
-  ees'4 ees c8 r8 \tuplet 3/2 { g f g }
+  ees'4 ees c8 \breathe r8 \tuplet 3/2 { g f g }
   c bes~ bes4 a8 aes~aes4
-  g8 f e c r8 g b d
+  g8 f e c \breathe r8 g b d
   \break
 
   % solo chorus
